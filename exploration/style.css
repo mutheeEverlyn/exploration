@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+
+}
+#join{
+ text-shadow: 0px 0px6px black;
+ color: lightblue;
+}
+
+.body{
+    background: url("sky.webp");
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding: 100px;
+}
+.btn{
+    padding: 6px 12px;
+    background-color: white;
+    border: none;
+}
+.explo{
+    border-bottom: 2px solid white;
+}
+
+.terms{
+    text-align: center;
+    padding: 20px;
+    color: lightblue;
+    font-weight: bold;
+    text-shadow: 0px 0px 3px black;
+}
