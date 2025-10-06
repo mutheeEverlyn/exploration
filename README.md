@@ -1,1 +1,1 @@
-# cloned exploration web page using HTML and css
+# cloned exploration web page using HTML and css.
